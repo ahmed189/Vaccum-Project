@@ -14,22 +14,21 @@ Switches
 SSD
 ---
 * 3 7-segments:
-min   -
+  min   -
 
-mid     -
-      - -
-      
-max       -
+  mid     -
         - -
-      - - -
+      
+  max       -
+          - -
+        - - -
       
       
 MOTOR
 -----
 * max speed = 10 Degree
-  mid speed = 90 Degree
-  min speed = 140 Degree
- 
+*  mid speed = 90 Degree
+*  min speed = 140 Degree 
 * Fire signal of the triac will be every 10 ms
 * Soft switching will be 1 degree every 80 ms
 * Harmonics reduction will be performed using "Kurz algorithm" by 5 degrees 
