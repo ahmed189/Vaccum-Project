@@ -18,7 +18,7 @@ static SWITCH_Info SW_Info[SW_NUM];
 //private data for Dust button
 
 //to check if it pressed for specific time
-#define COUNT_TIME                      1000
+#define COUNT_TIME                      30000
 
 //flag
 static u8 Dust_Pressed = 0;
