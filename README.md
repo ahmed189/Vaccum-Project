@@ -16,14 +16,17 @@ SSD
 * 3 7-segments:
   
   min
+  
         -
   
   mid
+  
         -
   
         - -
         
   max
+  
         -
   
         - -
