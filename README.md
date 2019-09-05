@@ -15,15 +15,22 @@ SSD
 ---
 * 3 7-segments:
   
-  min   -
-  mid     -  
-        - -
+  min   
+  
+  -
+  
+  mid   
+  
+  -  
+  - -
       
-  max       -
-          
-          - -
+  max
+  
+  -
+       
+  - -
         
-        - - -
+  - - -
       
       
 MOTOR
