@@ -6,13 +6,14 @@ Switches
 * 3 buttons (plus - minus - Dust sensor)
 * WE will refer to DUst sensor to be a button
 * Plus and minus buttons : be performed at Fallig edge 
-* Dust button : if pressesd   1)Dust led is on
-                              2)Plus and minus buttons inactive
-                              3)for every 30 second speed will decrease by one level
+* Dust button if pressesd :  
+  1) Dust led is on
+  2) Plus and minus buttons inactive
+  3) for every 30 second speed will decrease by one level
                               
 SSD
 ---
-*3 7-segments
+* 3 7-segments:
 min   -
 
 mid     -
